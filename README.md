@@ -1,3 +1,10 @@
+# ATTENTION. This is a FORK, because the following Bug/Features are needs to be fixed in the orignal Repo.:
+
+- Add HttpProxy for outgoing communication
+- Check if Splunk-Server is available on startup
+- ...
+
+
 # Splunk Logging for Java
 
 #### Version 1.7.3
